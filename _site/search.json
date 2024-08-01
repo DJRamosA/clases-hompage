@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "homepage.html",
+    "href": "homepage.html",
+    "title": "Diego Ramos",
+    "section": "",
+    "text": "Soy Diego Ramos Álvarez, soy estudiante de 2° año de Doctorado en el Doctorado de Data Science (DDS) en la Universidad Adolfo Ibañez."
+  },
+  {
+    "objectID": "homepage.html#machine-learning",
+    "href": "homepage.html#machine-learning",
+    "title": "Diego Ramos",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nIntroduction"
+  },
+  {
+    "objectID": "homepage.html#estructura-de-datos-y-algoritmos",
+    "href": "homepage.html#estructura-de-datos-y-algoritmos",
+    "title": "Diego Ramos",
+    "section": "Estructura de Datos y Algoritmos",
+    "text": "Estructura de Datos y Algoritmos"
+  },
+  {
+    "objectID": "courses/machine_learning/intro_ml.html#getting-up",
+    "href": "courses/machine_learning/intro_ml.html#getting-up",
+    "title": "Introducción a Minería de datos",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "courses/machine_learning/intro_ml.html#going-to-sleep",
+    "href": "courses/machine_learning/intro_ml.html#going-to-sleep",
+    "title": "Introducción a Minería de datos",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "courses/machine_learning/intro_ml.html#quien-es-el-profesor",
+    "href": "courses/machine_learning/intro_ml.html#quien-es-el-profesor",
+    "title": "Introducción a Minería de datos",
+    "section": "¿Quien es el profesor?",
+    "text": "¿Quien es el profesor?\n\nIngeniero civil Informático(UAI, 2023)\nMaster in Science of Data Science(UAI, 2023)\nEstudiante de Doctorado (UAI, 2do año)"
+  },
+  {
+    "objectID": "courses/machine_learning/intro_ml.html#objetivos-del-curso",
+    "href": "courses/machine_learning/intro_ml.html#objetivos-del-curso",
+    "title": "Introducción a Minería de datos",
+    "section": "Objetivos del curso",
+    "text": "Objetivos del curso\n\nIdentificar los elementos claves de machine learning (ML)\nComprender el funcionamiento de los algoritmos de ML:\n\nDescriptivos\nPredictivos\n\nSaber elegir qué algoritmo es el adecuado según el problema que estemos enfrentando.\nEvaluar el desempeño de los algoritmos."
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#quién-es-el-profe",
+    "href": "courses/programacion/Clase01.html#quién-es-el-profe",
+    "title": "TICS100 - Programación",
+    "section": "¿Quién es el profe?",
+    "text": "¿Quién es el profe?\nDiego Ramos Álvarez\n\n\n\nMaster en Science of Data Science - 2023\n\n\n\n\nEstudiante del Doctorado en Data Science"
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#ayudantía",
+    "href": "courses/programacion/Clase01.html#ayudantía",
+    "title": "TICS100 - Programación",
+    "section": "Ayudantía",
+    "text": "Ayudantía"
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#evaluaciones",
+    "href": "courses/programacion/Clase01.html#evaluaciones",
+    "title": "TICS100 - Programación",
+    "section": "Evaluaciones",
+    "text": "Evaluaciones\n\n\nPrueba 1 (P1) =&gt; Sabado 05 de Octube (05/10/2024)\n\n\n\n\nPrueba 2 (P2) =&gt; Sabado 30 de Noviembre (30/11/2024)\n\n\n\n\nEvaluación Extra (AE) =&gt; Lo definiremos entre todos\n\n\n\n\nTareas\nControles\nOtros\n\n\nif \\((\\small{\\frac{P1+P2}{2}} &gt;= 4.0):\\) \\[\nNF = P1*0.35 + P2*0.35 + AE*0.30\n\\]"
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#evaluaciones-1",
+    "href": "courses/programacion/Clase01.html#evaluaciones-1",
+    "title": "TICS100 - Programación",
+    "section": "Evaluaciones",
+    "text": "Evaluaciones\nExámen (Fecha por definir):\n\n\nSerá en el periodo de exámenes\n\n\n\n\nSi tienen las 2 notas de prueba mayor a 4.0 (P1 &gt;= 4.0 y P2 &gt;=4.0) se eximen.\n\n\n\n\nEl examen reemplaza la peor nota. Incluso si es peor.\n\n\n\n\nEn caso de Justificar inasistencia a 1 prueba se reemplaza con el examen. En caso de que sean las 2, la segunda nota se reemplazará con un examen oral."
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#section",
+    "href": "courses/programacion/Clase01.html#section",
+    "title": "TICS100 - Programación",
+    "section": "",
+    "text": "Prueba 1 (P1) =&gt; Sabado 05 de Octube (05/10/2024)\n\n\n\n\nPrueba 2 (P2) =&gt; Sabado 30 de Noviembre (30/11/2024)\n\n\n\n\nEvaluación Extra (AE) =&gt; Lo definiremos entre todos\n\nTareas\nControles\nOtros"
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#section-1",
+    "href": "courses/programacion/Clase01.html#section-1",
+    "title": "TICS100 - Programación",
+    "section": "",
+    "text": "El calculo de la nota es el siguiente:\nif \\((\\small{\\frac{P1+P2}{2}} &gt;= 4.0):\\) \\[\nNF = P1*0.35 + P2*0.35 + AE*0.30\n\\] else: \\[\nNF = P1*0.5 + P2*0.5 + AE*0.00\n\\]"
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#cuál-es-su-experiencia-programando",
+    "href": "courses/programacion/Clase01.html#cuál-es-su-experiencia-programando",
+    "title": "TICS100 - Programación",
+    "section": "¿Cuál es su experiencia programando?",
+    "text": "¿Cuál es su experiencia programando?"
+  },
+  {
+    "objectID": "courses/programacion/Clase01.html#qué-es-un-problema",
+    "href": "courses/programacion/Clase01.html#qué-es-un-problema",
+    "title": "TICS100 - Programación",
+    "section": "¿Qué es un problema?",
+    "text": "¿Qué es un problema?\nDefinamos que es un problema\n\n\n\n\ndiego.ramos.a@edu.uai.cl"
+  }
+]

@@ -1,0 +1,26 @@
+---
+title: "Introducción a Minería de datos"
+# title: "Introducción a Machine Learning"
+author: "Diego Ramos Á."
+format:
+  revealjs: 
+    slide-number: true
+    
+    # footer: <https://>
+resources: 
+  - intro_ml.pdf
+---
+
+# ¿Quien es el profesor?
+
+* Ingeniero civil Informático(UAI, 2023)
+* Master in Science of Data Science(UAI, 2023)
+* Estudiante de Doctorado (UAI, 2do año)
+
+## Objetivos del curso
+- Identificar los elementos claves de machine learning (ML)
+- Comprender el funcionamiento de los algoritmos de ML:
+  - Descriptivos
+  - Predictivos
+- Saber elegir qué algoritmo es el adecuado según el problema que estemos enfrentando.
+- Evaluar el desempeño de los algoritmos.

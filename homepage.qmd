@@ -1,0 +1,20 @@
+---
+title: "Diego Ramos"
+---
+
+# Introduction
+Soy Diego Ramos Álvarez, soy estudiante de 2° año de Doctorado en el Doctorado de Data Science (DDS) en la Universidad Adolfo Ibañez.
+
+# Publicaciones
+
+* [AC-PLT: An algorithm for computer-assisted coding of semantic property listing data](https://doi.org/10.3758/s13428-023-02260-9)
+
+# Clases 
+Cursos dictados en la UAI
+
+## Machine Learning
+[Introduction](courses/machine_learning/intro_ml.qmd)
+
+## Estructura de Datos y Algoritmos
+
+# About Me

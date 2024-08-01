@@ -1,0 +1,86 @@
+---
+title: "TICS100 - Programación"
+author: "Diego Ramos Á."
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    footer: <diego.ramos.a@edu.uai.cl>
+    logo: ../../img/uai.png 
+    theme: [default, custom.scss]
+    transition: slide
+resources: 
+  - intro_ml.pdf
+---
+
+## ¿Quién es el profe?
+### Diego Ramos Álvarez
+<!-- <br/> -->
+
+:::{.fragment .fade-in-then-semi-out}
+- Master en Science of Data Science - 2023
+:::
+:::{.fragment .fade-in-then-semi-out}
+- Estudiante del Doctorado en Data Science
+:::
+
+
+## Ayudantía 
+
+
+# Evaluaciones
+
+## 
+:::{.fragment .fade-in-then-semi-out }
+- Prueba 1 (P1) => Sabado 05 de Octube (05/10/2024)
+:::
+:::{.fragment .fade-in-then-semi-out }
+- Prueba 2 (P2) => Sabado 30 de Noviembre (30/11/2024)
+:::
+:::{.fragment .fade-in-then-semi-out }
+- Evaluación Extra (AE) => Lo definiremos entre todos
+  - Tareas
+  - Controles
+  - Otros
+:::
+
+##
+El calculo de la nota es el siguiente:
+
+if $(\small{\frac{P1+P2}{2}} >= 4.0):$
+$$
+NF = P1*0.35 + P2*0.35 + AE*0.30 
+$$
+else:
+$$
+NF = P1*0.5 + P2*0.5 + AE*0.00
+$$
+
+
+## Evaluaciones
+
+Exámen (Fecha por definir): 
+
+:::{.fragment .fade-in-then-semi-out}
+- Será en el periodo de exámenes
+:::
+:::{.fragment .fade-in-then-semi-out}
+- Si tienen las **2 notas** de prueba **mayor a 4.0** (P1 >= 4.0 y P2 >=4.0) se **eximen**.
+:::
+:::{.fragment .fade-in-then-semi-out}
+- El examen reemplaza la peor nota. Incluso si es peor. 
+:::
+:::{.fragment .fade-in-then-semi-out}
+- En caso de Justificar inasistencia a 1 prueba se reemplaza con el examen. En caso de que sean las 2, la segunda nota se reemplazará con un examen oral.
+:::
+
+## ¿Cuál es su experiencia programando?
+
+
+
+## ¿Qué es un problema?
+
+Definamos que es un problema
+
